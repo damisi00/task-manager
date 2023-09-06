@@ -4,9 +4,9 @@
   box-sizing: border-box;
 }
 
-/* a:hover{
-  color: #f73d93;
-} */
+a:hover{
+  /* color: #f73d93; */
+}
 
 body{
   background-color: #1b2430;

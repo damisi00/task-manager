@@ -4,7 +4,7 @@ import './App.css'
 import Add from './components/Add'
 
 function App() {
-  // const [count, setCount] = useState(1)
+
 
   return (
     <> 
